@@ -4,7 +4,7 @@ AnimalKingdom.js: This [code file](index.js)models a simple Animal Kingdom class
 Animal Kingdom Classification
 
 [image](Animalia.png)
-<img src=”Animalia.png”>
+
 Click [here](https://cdn1.byjus.com/wp-content/uploads/2019/04/Animal-Kingdom-Classification-of-Animal-Kingdom.png) to view image
 
 Click [here](https://byjus.com/biology/animal-kingdom/) to view image source
