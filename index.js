@@ -164,9 +164,3 @@ const animals = [mandy, nimo, toddler, musk, swarvey, iceage];
 animals.forEach((animal) => {
   console.log(animal.allProperties()) + "\n";
 });
-
-// console.log("OOPS!!! I misspelled tortise\n".toUpperCase());
-
-// //USING THE SETTER TO CORRECT THE TYPE PROPERTY
-// flip.type = "Tortoise";
-// console.log(flip.allProperties());
