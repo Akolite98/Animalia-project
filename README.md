@@ -3,9 +3,9 @@ This file contains the following:
 AnimalKingdom.js: This code file models a simple Animal Kingdom class as shown in the picture
 Animal Kingdom Classification
 
-Click here to view image
+Click [here](https://cdn1.byjus.com/wp-content/uploads/2019/04/Animal-Kingdom-Classification-of-Animal-Kingdom.png) to view image
 
-Click here to view image source
+Click [here](https://byjus.com/biology/animal-kingdom/)to view image source
 
 OOP paradigms were used to model this simple class to avoid repetition of code and to produce a well-structured and scalable code.
 
