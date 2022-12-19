@@ -21,3 +21,26 @@ The constructor in the parent class is #Name and #gender because those two appli
 The two sub classes also have a number of animals under it but those animals inherits boths from the Animal class and the vertebrate and invertebrate sub classes
 
 # Expected Output
+
+All Fishes breathe using their gills
+All fishes has two chambered heart
+Fish are cold blooded
+
+All Aves has four chambered heart
+Aves have a high matabolism
+
+Most arthropods have multiple legs
+Anthropods have Segmentedbodies
+Anthropods possess exoskeleton
+
+Amphibians lives on both land and water
+Amphibians has Primitive lungs
+Amphibians fertilizes their eggs externally
+
+All vertebrates has backbone
+All vertebrates have a closed circulatory system
+Mammals possess two eyes for sight
+
+This reptile sabi
+This reptile fit be crocodile
+Reptiles are cold blooded
